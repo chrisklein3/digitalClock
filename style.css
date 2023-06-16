@@ -46,3 +46,33 @@ h2{
     letter-spacing: 2px;
     background-color: rgba(255,255,255,0.1);
 }
+
+
+footer { 
+    position: absolute;
+    bottom: 1%;
+    right: 2%;
+    font-size: 14px;
+    
+}
+
+footer>h5{
+    text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.8);
+    color: white;
+    
+}
+
+a{
+    font-size: 17px;
+}
+
+a:visited {
+    color: white;
+    
+    text-decoration: none;
+}
+
+  a:link {
+    color: white;
+    text-decoration: none;
+}
